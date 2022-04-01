@@ -1,6 +1,6 @@
 ---
 name: Welcome Center
-about: Describe this issue template's purpose here.
+about: 'Say hello! Welcome to the GitHub Community '
 title: ''
 labels: ''
 assignees: ''

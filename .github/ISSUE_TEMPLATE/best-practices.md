@@ -1,6 +1,6 @@
 ---
 name: Best Practices
-about: Describe this issue template's purpose here.
+about: Post about GitHub best practices or share your tips & tricks
 title: ''
 labels: ''
 assignees: ''
