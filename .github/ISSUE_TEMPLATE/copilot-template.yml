@@ -1,0 +1,25 @@
+name: "👩 Copilot"
+title: (Enter title for this Discussion)
+description: All things GitHub Copilot
+labels: 
+- "copilot"
+body:
+- type: dropdown
+  attributes:
+    label: Select Topic Area
+    description: What would you like to discuss?
+    options:
+      - "🗳️ Bugs"
+      - "💡 Feature Requests or Ideas"
+      - "💬 General"
+      - "✅ Help & Questions"
+      - "💖 Best Practices & Tips"
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: "Post Body"
+    description: "Start your Discussion!"
+  validations:
+    required: true
+ 
